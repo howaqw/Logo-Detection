@@ -1,0 +1,4 @@
+{names: [paz, dell, menta_square, delek, rashut_hamisim, hevrat_hashmal, vilifood,
+    jerusalem, nespresso, mey_ziona, bituah_leumi, tel_aviv, mazkeret, tzhahal, dover,
+    menta], nc: 16, test: ./converted_train/test/images, train: ./converted_train/train/images,
+  val: ./converted_train/valid/images}
